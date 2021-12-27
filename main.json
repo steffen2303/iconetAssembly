@@ -28,7 +28,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"world:\/\/lobby\/floppy-landfill.json#start_iconetfoundation"
                 }],
@@ -247,7 +247,7 @@
          "name":"Special_Zones",
          "properties":[
                 {
-                 "name":" tilesetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC0"
                 }],
@@ -276,7 +276,7 @@
          "name":"Room_Builder_free_32x32",
          "properties":[
                 {
-                 "name":" tilesetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC0"
                 }],
@@ -314,7 +314,7 @@
                  "id":0,
                  "properties":[
                         {
-                         "name":" tilesetCopyright",
+                         "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0"
                         }]
@@ -344,7 +344,7 @@
          "name":"tileset1",
          "properties":[
                 {
-                 "name":" tilesetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC0"
                 }],
@@ -365,7 +365,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"CC0"
                 }],
          "spacing":0,
          "tilecount":1064,
@@ -375,7 +375,7 @@
                  "id":0,
                  "properties":[
                         {
-                         "name":" tilesetCopyright",
+                         "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0"
                         }]
@@ -392,7 +392,7 @@
          "name":"Banner-ENG-gro\u00df (2)",
          "properties":[
                 {
-                 "name":" tilesetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC0"
                 }],
@@ -411,7 +411,7 @@
          "name":"worldExit",
          "properties":[
                 {
-                 "name":" tilesetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC0"
                 }],
@@ -430,7 +430,7 @@
          "name":"LightShadow_pipo",
          "properties":[
                 {
-                 "name":" tilesetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC0"
                 }],
