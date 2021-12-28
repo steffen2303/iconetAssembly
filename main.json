@@ -86,7 +86,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsiteTriggerMessage",
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"hint"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"To find the secret backroom, you don't need a key, but it helps."
                 }],
