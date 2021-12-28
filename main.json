@@ -86,6 +86,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"To find the secret backroom, you don't need a key, but it helps."
